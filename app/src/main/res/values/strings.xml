@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Biashara Stock Manager</string>
+    <string name="title_text">Biashara Stock Manager</string>
+    <string name="products">Products</string>
+    <string name="stock_remaining">Stock</string>
+    <string name="fast_moving_consumer_goods">FMCG</string>
+    <string name="transaction_textview">New Transaction</string>
+    <string name="fab_description">fab_transaction_button</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">OR</string>
+    <string name="create_account_text">CREATE ACCOUNT</string>
+    <string name="username_hint">Username</string>
+    <string name="new_product">Product Name e.g Bread, Milk, Eggs</string>
+    <string name="new_stock_quantity">Quantity e.g 10, 20, 30</string>
+    <string name="purchase_price">Price</string>
+    <string name="transaction_in">IN</string>
+    <string name="transaction_out">OUT</string>
+    <string name="transaction_date">Date</string>
+</resources>

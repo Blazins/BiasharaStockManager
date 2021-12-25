@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232799780393",
+    "project_id": "biashara-stock-manager",
+    "storage_bucket": "biashara-stock-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232799780393:android:613fd9b6993a7c5a862638",
+        "android_client_info": {
+          "package_name": "com.example.biasharastockmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232799780393-gj3fgup52nj7ne8f28k7nsm4rp2t1qft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXTdlQ8fiYABq59DdtncqlS1Ts1Afi10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232799780393-gj3fgup52nj7ne8f28k7nsm4rp2t1qft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
